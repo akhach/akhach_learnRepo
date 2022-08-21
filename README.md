@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @armpikas
+- 👋 Hi, I’m @akhach
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 
